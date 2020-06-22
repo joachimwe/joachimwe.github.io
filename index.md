@@ -9,5 +9,4 @@ Pierce Brosnan ist ein fantastischer Darsteller. Insbesondere in James Bond 007 
 * er ist souverän
 * ein sunnyboy
 
-## Sein Motto
 Ich habe die Lizenz zum ...
