@@ -11,3 +11,5 @@ Pierce Brosnan ist ein fantastischer Darsteller. Insbesondere in James Bond 007 
 
 ## Sein Zitat
 >Bond: Sehe ich aus wie jemand, den das interessiert?
+
+<img src="bond.jpg"/>
