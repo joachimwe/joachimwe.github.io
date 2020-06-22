@@ -8,3 +8,6 @@ Pierce Brosnan ist ein fantastischer Darsteller. Insbesondere in James Bond 007 
 * er liebt Frauen
 * er ist souverän
 * ein sunnyboy
+
+## Sein Zitat
+>Bond: Sehe ich aus wie jemand, den das interessiert?
