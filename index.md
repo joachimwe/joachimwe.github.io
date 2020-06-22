@@ -9,4 +9,5 @@ Pierce Brosnan ist ein fantastischer Darsteller. Insbesondere in James Bond 007 
 * er ist souverän
 * ein sunnyboy
 
-Ich habe die Lizenz zum ...
+## Sein Zitat
+Bond: Sehe ich aus wie jemand, den das interessiert?
